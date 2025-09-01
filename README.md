@@ -1,1 +1,4 @@
+
+![ezgif-4a5470603a206c](https://github.com/user-attachments/assets/61f2ac64-7b9a-43dc-a2d9-c1df1d64f327)
+
 BizStock no solo permite gestionar el stock de manera ordenada y eficiente, también evoluciona según las necesidades reales de los usuarios. El software que se observa en el video es una versión personalizada a pedido de un cliente, mientras que la versión actualmente en desarrollo incorpora funciones avanzadas como la posibilidad de elegir modos de venta (contado o en cuotas), llevar un control detallado de la financiación y añadir intereses de forma flexible. Todo orientado a simplificar la gestión comercial y potenciar el control de productos y ventas.
